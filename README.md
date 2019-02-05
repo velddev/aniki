@@ -1,4 +1,6 @@
-# anici
+# aniki
+aniki is a cli tool for anilist. The name originates from ani-cli, which sounds a lot like the japanese word aniki, meaning older sibling.
+
 ## Why did I make this
 The original reasoning was to make sure all my routes for [mikibot/miki.anilist](https://github.com/mikibot/miki.anilist) were working correctly.
 
